@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0d5ed315d4c4ffe9a451.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OPIForms",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OPIForms::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OPIForms-Debug-131b7fc6fef1b765b1e4.json",
+					"name" : "OPIForms",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OPIForms_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OPIForms_autogen-Debug-964f32498cfe86a97d18.json",
+					"name" : "OPIForms_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OPIForms_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OPIForms_autogen_timestamp_deps-Debug-150869abd508543e27e2.json",
+					"name" : "OPIForms_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dima/2sem/PI/OPIForms/build/Unnamed-Debug",
+		"source" : "/home/dima/2sem/PI/OPIForms"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
